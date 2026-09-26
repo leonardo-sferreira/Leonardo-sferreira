@@ -50,9 +50,8 @@ Git      ▓▓▓▓░░░░░░  Nv. 2
 
 ### 📊 Status do jogador
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=leonardo-sferreira&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="150" src="https://streak-stats.demolab.com?user=leonardo-sferreira&hide_border=true" alt="Sequência de contribuições">
+<p>
+  <img src="https://komarev.com/ghpvc/?username=leonardo-sferreira&label=Visitantes%20do%20perfil&color=0e75b6&style=flat-square" alt="Visitantes do perfil">
 </p>
 
 ---
