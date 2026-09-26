@@ -1,59 +1,58 @@
-<h1 align="center">🎮 Player 1: Leonardo dos Santos</h1>
-<p align="center">
-  <b>Classe:</b> Dev em treinamento · <b>Base:</b> São Paulo, SP · <b>Guilda:</b> Impacta + Loft
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ferreirasantosleonardo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:leonardoferreira0409@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-</p>
+# Leonardo dos Santos
 
----
+**Estudante de Sistemas de Informação · Desenvolvedor em formação**
 
-### 🧙‍♂️ Ficha do personagem
+São Paulo, Brasil
 
-- 🎓 Estudante de **Sistemas de Informação** na Faculdade Impacta
-- 💼 Analista de atendimento na **Loft**, participando de projetos internos com foco técnico
-- 🎯 **Objetivo principal:** me tornar desenvolvedor
+<a href="https://www.linkedin.com/in/ferreirasantosleonardo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:leonardoferreira0409@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-mail"></a>
 
-### ⚔️ Habilidades (em evolução)
-
-```text
-Python   ▓▓▓▓▓▓░░░░  Nv. 3
-SQL      ▓▓▓▓▓▓░░░░  Nv. 3
-Xano     ▓▓▓▓▓▓░░░░  Nv. 3
-Figma    ▓▓▓▓▓░░░░░  Nv. 2
-Dart     ▓▓▓▓░░░░░░  Nv. 2
-Git      ▓▓▓▓░░░░░░  Nv. 2
-```
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Xano-3B2C8F?style=flat-square" alt="Xano">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-</p>
-
-### 🏆 Conquistas desbloqueadas
-
-- 🥇 **Primeiro projeto publicado:** [ConectaRH](https://github.com/leonardo-sferreira/conectahr), uma plataforma de RH
-- 🤖 **Ajudante de bot:** contribuí para melhorar o bot de atendimento da Loft
-- 📚 **Aprendiz dedicado:** cursando Sistemas de Informação
-
-### 🗺️ Missões em andamento
-
-- [ ] Evoluir em Python e bancos de dados
-- [ ] Publicar mais projetos aqui no GitHub
-- [ ] Conquistar a primeira vaga como dev
-
-### 📊 Status do jogador
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=leonardo-sferreira&label=Visitantes%20do%20perfil&color=0e75b6&style=flat-square" alt="Visitantes do perfil">
-</p>
+</div>
 
 ---
 
-<p align="center"><i>💾 Progresso salvo. Aberto a oportunidades de estágio e júnior em desenvolvimento!</i></p>
+## Sobre mim
+
+Sou estudante de **Sistemas de Informação** na Faculdade Impacta e atuo como analista de atendimento na **Loft**, onde participo de projetos internos com foco técnico, como a evolução do bot de atendimento.
+
+Estou em transição para a área de **desenvolvimento**, com interesse em back-end, bancos de dados e na construção de soluções que melhoram a experiência do usuário.
+
+## Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,html,css,dart,figma,git&theme=dark" alt="Python, SQL, HTML, CSS, Dart, Figma e Git">
+</p>
+
+<table>
+  <tr>
+    <td><b>Linguagens</b></td>
+    <td>Python · SQL · Dart · HTML · CSS</td>
+  </tr>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td>Xano (XanoScript) · Bancos de dados relacionais</td>
+  </tr>
+  <tr>
+    <td><b>Design e ferramentas</b></td>
+    <td>Figma · Git · GitHub</td>
+  </tr>
+</table>
+
+## Projeto em destaque
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/leonardo-sferreira/conectahr"><b>ConectaRH</b></a><br>
+      Plataforma de RH desenvolvida como projeto acadêmico.
+    </td>
+  </tr>
+</table>
+
+## Atualmente
+
+- Aprofundando os estudos em Python e bancos de dados
+- Desenvolvendo projetos práticos para o portfólio
+- Aberto a oportunidades de **estágio** e **júnior** em desenvolvimento
