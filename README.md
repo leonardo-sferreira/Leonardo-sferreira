@@ -42,6 +42,12 @@ Estou em transição para a área de **desenvolvimento**, com interesse em back-
   <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" title="GitHub">
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" title="Salesforce (CRM)">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" title="n8n (automação de fluxos)">
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make" title="Make (automação de fluxos)">
+</p>
+
 <table>
   <tr>
     <td><b>Linguagens</b></td>
@@ -50,6 +56,10 @@ Estou em transição para a área de **desenvolvimento**, com interesse em back-
   <tr>
     <td><b>Back-end</b></td>
     <td>Xano (XanoScript) · APIs REST · Bancos de dados relacionais</td>
+  </tr>
+  <tr>
+    <td><b>Automação e CRM</b></td>
+    <td>Salesforce · n8n · Make</td>
   </tr>
   <tr>
     <td><b>Design</b></td>
