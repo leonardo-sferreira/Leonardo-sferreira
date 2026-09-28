@@ -55,7 +55,7 @@ Estou em transição para a área de **desenvolvimento**, com interesse em back-
   </tr>
   <tr>
     <td><b>Front-end</b></td>
-    <td>Reflex (Python) · HTML · CSS</td>
+    <td>Streamlit (Python) · Reflex (Python) · HTML · CSS</td>
   </tr>
   <tr>
     <td><b>Back-end</b></td>
@@ -86,6 +86,7 @@ Plataforma integrada de RH que centraliza rotinas hoje espalhadas em planilhas e
 - Motor de regras de negócio para jornada, banco de horas e férias, com histórico auditável
 
 <p>
+  <img src="https://img.shields.io/badge/Streamlit-front--end-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" title="Front-end em Streamlit (Python)">
   <img src="https://img.shields.io/badge/Xano-back--end-3B2C8F?style=flat" alt="Xano" title="Back-end em Xano (XanoScript)">
   <img src="https://img.shields.io/badge/Figma-design-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" title="Design e protótipos no Figma">
   <img src="https://img.shields.io/badge/Brevo-e--mail-0B996E?style=flat" alt="Brevo" title="E-mail transacional com Brevo">
