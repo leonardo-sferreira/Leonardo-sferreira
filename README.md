@@ -54,8 +54,12 @@ Estou em transição para a área de **desenvolvimento**, com interesse em back-
     <td>Python · SQL · Dart · HTML · CSS</td>
   </tr>
   <tr>
+    <td><b>Front-end</b></td>
+    <td>Reflex (Python) · HTML · CSS</td>
+  </tr>
+  <tr>
     <td><b>Back-end</b></td>
-    <td>Xano (XanoScript) · APIs REST · Bancos de dados relacionais</td>
+    <td>Xano (XanoScript) · APIs REST · Bancos de dados relacionais · Testes com pytest</td>
   </tr>
   <tr>
     <td><b>Automação e CRM</b></td>
@@ -63,7 +67,7 @@ Estou em transição para a área de **desenvolvimento**, com interesse em back-
   </tr>
   <tr>
     <td><b>Design</b></td>
-    <td>Figma (design system e protótipos)</td>
+    <td>Figma (design system e protótipos) · FlutterFlow</td>
   </tr>
   <tr>
     <td><b>Ferramentas e práticas</b></td>
@@ -71,7 +75,7 @@ Estou em transição para a área de **desenvolvimento**, com interesse em back-
   </tr>
 </table>
 
-## Projeto em destaque
+## Projetos
 
 ### [ConectaRH](https://github.com/leonardo-sferreira/conectahr)
 
@@ -80,7 +84,6 @@ Plataforma integrada de RH que centraliza rotinas hoje espalhadas em planilhas e
 - Autenticação com token de curta duração e validação por código (OTP) enviado por e-mail
 - Controle de acesso por perfil (Admin, RH, Gestor e Colaborador)
 - Motor de regras de negócio para jornada, banco de horas e férias, com histórico auditável
-- Especificação e planejamento documentados com OpenSpec
 
 <p>
   <img src="https://img.shields.io/badge/Xano-back--end-3B2C8F?style=flat" alt="Xano" title="Back-end em Xano (XanoScript)">
@@ -89,9 +92,35 @@ Plataforma integrada de RH que centraliza rotinas hoje espalhadas em planilhas e
   <img src="https://img.shields.io/badge/OpenSpec-especificação-555555?style=flat" alt="OpenSpec" title="Planejamento e especificação com OpenSpec">
 </p>
 
+### [PS Fila Prioritária](https://github.com/leonardo-sferreira/ps-fila-prioritaria)
+
+Sistema web para pronto-socorro que organiza a chamada de pacientes pela gravidade clínica, e não só pela ordem de chegada. Projeto acadêmico da Faculdade Impacta.
+
+- Classificação por cor (Vermelha, Amarela e Azul) combinando sintomas e um escore de risco calculado a partir dos sinais vitais
+- Chamada automática do próximo paciente por especialidade, sem duplicidade
+- Painel público de chamadas que não expõe nome nem CPF
+- Parâmetros e faixas de risco configuráveis pelo administrador, sem alterar código
+
+<p>
+  <img src="https://img.shields.io/badge/Reflex-front--end-5646ED?style=flat&logo=python&logoColor=white" alt="Reflex" title="Front-end em Reflex (Python)">
+  <img src="https://img.shields.io/badge/Xano-back--end-3B2C8F?style=flat" alt="Xano" title="Back-end, regras e auditoria em Xano (XanoScript)">
+  <img src="https://img.shields.io/badge/pytest-testes-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="pytest" title="Testes de API com pytest e httpx">
+  <img src="https://img.shields.io/badge/OpenSpec-especificação-555555?style=flat" alt="OpenSpec" title="Planejamento e especificação com OpenSpec">
+</p>
+
+### Sabor Local · [App](https://github.com/leonardo-sferreira/SaborLocalDeliveryAPP) · [Protótipo](https://github.com/leonardo-sferreira/Prototipa-oSaborLocal-Figma)
+
+Aplicativo de delivery focado em culinária mineira, com jornada completa do usuário: login, cardápio, carrinho, pagamento e acompanhamento do pedido com mapa. Projeto acadêmico com foco em UX/UI.
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-design-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" title="Design de interface no Figma">
+  <img src="https://img.shields.io/badge/FlutterFlow-protótipo-4B39EF?style=flat&logo=flutter&logoColor=white" alt="FlutterFlow" title="Protótipo navegável no FlutterFlow">
+  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-interface-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML e CSS" title="Interface com HTML e CSS">
+</p>
+
 ## Atualmente
 
-- Desenvolvendo o back-end do ConectaRH
+- Desenvolvendo o back-end do ConectaRH e do PS Fila Prioritária
 - Aprofundando os estudos em Python e bancos de dados
 - Aberto a oportunidades de **estágio** e **júnior** em desenvolvimento
 
