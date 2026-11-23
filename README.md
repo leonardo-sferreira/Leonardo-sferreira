@@ -6,6 +6,7 @@
 
 São Paulo, Brasil
 
+<a href="https://leonardo-sferreira.github.io/portfolio/" title="Portfólio"><img src="https://img.shields.io/badge/Portfólio-2DD4BF?style=flat&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
 <a href="https://www.linkedin.com/in/ferreirasantosleonardo/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:leonardoferreira0409@gmail.com" title="E-mail"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-mail"></a>
 
@@ -77,13 +78,35 @@ Estou em transição para a área de **desenvolvimento**, com interesse em back-
 
 ## Projetos
 
-### [ConectaRH](https://github.com/leonardo-sferreira/conectahr)
+Os cases completos, com telas e o meu papel em cada um, estão no **[portfólio](https://leonardo-sferreira.github.io/portfolio/)**.
+
+### [PS Fila Prioritária (Prioriza)](https://github.com/leonardo-sferreira/ps-fila-prioritaria) · ✅ Finalizado
+
+Sistema web para pronto-socorro que organiza a chamada de pacientes pela gravidade clínica, e não só pela ordem de chegada. Projeto acadêmico da Faculdade Impacta, em que atuei como **Product Owner**: defini as regras de priorização clínica, prototipei as telas e modelei o banco de dados.
+
+- Classificação por cor (Vermelha, Amarela e Azul) combinando sintomas e um escore de risco calculado a partir dos sinais vitais
+- Chamada automática do próximo paciente por especialidade, sem duplicidade
+- Painel público de chamadas que não expõe nome nem CPF
+- Parâmetros e faixas de risco configuráveis pelo administrador, sem alterar código
+- Em números: 33 telas, 23 tabelas, 71 endpoints, 127 requisitos especificados e 486 testes catalogados
+
+📘 [Documentação (manual do usuário e técnica)](https://leonardo-sferreira.github.io/ps-fila-prioritaria/)
+
+<p>
+  <img src="https://img.shields.io/badge/Reflex-front--end-5646ED?style=flat&logo=python&logoColor=white" alt="Reflex" title="Front-end em Reflex (Python)">
+  <img src="https://img.shields.io/badge/Xano-back--end-3B2C8F?style=flat" alt="Xano" title="Back-end, regras e auditoria em Xano (XanoScript)">
+  <img src="https://img.shields.io/badge/pytest-testes-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="pytest" title="Testes de API com pytest e httpx">
+  <img src="https://img.shields.io/badge/OpenSpec-especificação-555555?style=flat" alt="OpenSpec" title="Planejamento e especificação com OpenSpec">
+</p>
+
+### [ConectaRH](https://github.com/leonardo-sferreira/conectahr) · 🚧 Em desenvolvimento
 
 Plataforma integrada de RH que centraliza rotinas hoje espalhadas em planilhas e e-mails: controle de jornada, documentos, férias, ausências, desligamento e desenvolvimento de colaboradores.
 
 - Autenticação com token de curta duração e validação por código (OTP) enviado por e-mail
 - Controle de acesso por perfil (Admin, RH, Gestor e Colaborador)
 - Motor de regras de negócio para jornada, banco de horas e férias, com histórico auditável
+- Em números: 59 tabelas, 228 endpoints, 22 telas e 909 verificações automatizadas a cada Pull Request
 
 <p>
   <img src="https://img.shields.io/badge/Streamlit-front--end-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" title="Front-end em Streamlit (Python)">
@@ -93,25 +116,11 @@ Plataforma integrada de RH que centraliza rotinas hoje espalhadas em planilhas e
   <img src="https://img.shields.io/badge/OpenSpec-especificação-555555?style=flat" alt="OpenSpec" title="Planejamento e especificação com OpenSpec">
 </p>
 
-### [PS Fila Prioritária](https://github.com/leonardo-sferreira/ps-fila-prioritaria)
+### [Sabor Local](https://github.com/leonardo-sferreira/SaborLocal-Figma) · 🎨 Protótipo
 
-Sistema web para pronto-socorro que organiza a chamada de pacientes pela gravidade clínica, e não só pela ordem de chegada. Projeto acadêmico da Faculdade Impacta.
+Protótipo de delivery de culinária mineira, desenhado no Figma em dois produtos. O **app do cliente** (mobile, cerca de 75 telas e pop-ups) cobre login, cardápio, carrinho, cupom, pagamento, acompanhamento do pedido com mapa e avaliação. O **painel do restaurante** (web, 22 telas) cobre pedidos, relatórios, chat, cupons, produtos e acessos da equipe. Projeto acadêmico com foco em UX/UI.
 
-- Classificação por cor (Vermelha, Amarela e Azul) combinando sintomas e um escore de risco calculado a partir dos sinais vitais
-- Chamada automática do próximo paciente por especialidade, sem duplicidade
-- Painel público de chamadas que não expõe nome nem CPF
-- Parâmetros e faixas de risco configuráveis pelo administrador, sem alterar código
-
-<p>
-  <img src="https://img.shields.io/badge/Reflex-front--end-5646ED?style=flat&logo=python&logoColor=white" alt="Reflex" title="Front-end em Reflex (Python)">
-  <img src="https://img.shields.io/badge/Xano-back--end-3B2C8F?style=flat" alt="Xano" title="Back-end, regras e auditoria em Xano (XanoScript)">
-  <img src="https://img.shields.io/badge/pytest-testes-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="pytest" title="Testes de API com pytest e httpx">
-  <img src="https://img.shields.io/badge/OpenSpec-especificação-555555?style=flat" alt="OpenSpec" title="Planejamento e especificação com OpenSpec">
-</p>
-
-### Sabor Local · [App](https://github.com/leonardo-sferreira/SaborLocalDeliveryAPP) · [Protótipo](https://github.com/leonardo-sferreira/Prototipa-oSaborLocal-Figma)
-
-Aplicativo de delivery focado em culinária mineira, com jornada completa do usuário: login, cardápio, carrinho, pagamento e acompanhamento do pedido com mapa. Projeto acadêmico com foco em UX/UI.
+🎨 [Protótipo no Figma](https://www.figma.com/design/iRn8igu0iCwyqYTathrz9P/Sabor-local?node-id=0-1)
 
 <p>
   <img src="https://img.shields.io/badge/Figma-design-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" title="Design de interface no Figma">
@@ -119,9 +128,23 @@ Aplicativo de delivery focado em culinária mineira, com jornada completa do usu
   <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-interface-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML e CSS" title="Interface com HTML e CSS">
 </p>
 
+### Bot de Finanças · 🔒 Repositório privado
+
+Bot do Telegram que registra minhas finanças pessoais no Notion a partir de uma mensagem curta, como "45,90 almoço". Lança gastos recorrentes sozinho, avisa faturas e parcelas que vencem em 3 dias, manda um resumo semanal e fecha o mês automaticamente.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-bot-3776AB?style=flat&logo=python&logoColor=white" alt="Python" title="Bot em Python">
+  <img src="https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Bot API" title="Interface pelo Telegram">
+  <img src="https://img.shields.io/badge/Notion-API-000000?style=flat&logo=notion&logoColor=white" alt="Notion API" title="Dados guardados no Notion">
+</p>
+
+### [Portfólio](https://github.com/leonardo-sferreira/portfolio)
+
+Meu site pessoal, em HTML, CSS e JavaScript puro, sem framework: cases completos dos projetos, animações e publicação pelo GitHub Pages. [Ver no ar →](https://leonardo-sferreira.github.io/portfolio/)
+
 ## Atualmente
 
-- Desenvolvendo o back-end do ConectaRH e do PS Fila Prioritária
+- PS Fila Prioritária entregue e validado; seguindo com o desenvolvimento do ConectaRH
 - Aprofundando os estudos em Python e bancos de dados
 - Aberto a oportunidades de **estágio** e **júnior** em desenvolvimento
 
