@@ -62,7 +62,7 @@ Estudante de **Sistemas de Informação** na Impacta e analista na **Loft**, mig
 <!-- atividade:inicio -->
 | Repositório | Último commit | Quando |
 | --- | --- | --- |
-| [**portfolio**](https://github.com/leonardo-sferreira/portfolio) | [Update ConectaRH status and Sabor Local links in README](https://github.com/leonardo-sferreira/portfolio/commit/7f4a39571e88d7684d37295c09bdfa933b4e1c8f) | 23 nov 2026 |
+| [**portfolio**](https://github.com/leonardo-sferreira/portfolio) | [Game blocks 5 and 6: quests, touch controls, performance; game is home](https://github.com/leonardo-sferreira/portfolio/commit/178135b1fead2d653728ba8f38351ad7d8a1d360) | 23 nov 2026 |
 | [**SaborLocal-Figma**](https://github.com/leonardo-sferreira/SaborLocal-Figma) | [Add Figma screens for client and restaurant apps, rewrite README](https://github.com/leonardo-sferreira/SaborLocal-Figma/commit/c5e80efd273e310d1b1f2c9f44dbd731edbcba61) | 23 nov 2026 |
 | [**conectahr**](https://github.com/leonardo-sferreira/conectahr) | [Contraste dos itens que abrem e fecham (Benefícios e outras telas)](https://github.com/leonardo-sferreira/conectahr/commit/2e1438382cb538206f690b1b00c47e6d6f7b9b4a) | 23 nov 2026 |
 | [**ps-fila-prioritaria**](https://github.com/leonardo-sferreira/ps-fila-prioritaria) | [docs: README completo no formato de portfólio, com prints das telas](https://github.com/leonardo-sferreira/ps-fila-prioritaria/commit/2498be12ae459c1c03aa52b193aa66a1cf7aa580) | 23 nov 2026 |
