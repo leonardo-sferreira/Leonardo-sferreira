@@ -62,7 +62,7 @@ Estudante de **Sistemas de Informação** na Impacta e analista na **Loft**, mig
 <!-- atividade:inicio -->
 | Repositório | Último commit | Quando |
 | --- | --- | --- |
-| [**portfolio**](https://github.com/leonardo-sferreira/portfolio) | [Corrige largura do Sobre e Contato em monitores largos; Sobre em colunas](https://github.com/leonardo-sferreira/portfolio/commit/867dc3951e0fa1e62eaade731853670cc4bf2db3) | 23 nov 2026 |
+| [**portfolio**](https://github.com/leonardo-sferreira/portfolio) | [Prévia: projetos em destaque e cases nos 5 critérios](https://github.com/leonardo-sferreira/portfolio/commit/b0c80dd90b771c041121b4981f6fe082bb4a89dd) | 24 nov 2026 |
 | [**conectahr**](https://github.com/leonardo-sferreira/conectahr) | [Remove a opção Vagas internas do menu](https://github.com/leonardo-sferreira/conectahr/commit/ad937842e49264d33a2f03b2dd12a27b80fd63ac) | 24 nov 2026 |
 | [**SaborLocal-Figma**](https://github.com/leonardo-sferreira/SaborLocal-Figma) | [Add Figma screens for client and restaurant apps, rewrite README](https://github.com/leonardo-sferreira/SaborLocal-Figma/commit/c5e80efd273e310d1b1f2c9f44dbd731edbcba61) | 23 nov 2026 |
 | [**ps-fila-prioritaria**](https://github.com/leonardo-sferreira/ps-fila-prioritaria) | [docs: README completo no formato de portfólio, com prints das telas](https://github.com/leonardo-sferreira/ps-fila-prioritaria/commit/2498be12ae459c1c03aa52b193aa66a1cf7aa580) | 23 nov 2026 |
